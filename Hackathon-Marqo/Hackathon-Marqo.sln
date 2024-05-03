@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hackathon-Marqo", "Hackathon-Marqo.pyproj", "{DB24B138-669D-4A2B-93C4-456E1973CF7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB24B138-669D-4A2B-93C4-456E1973CF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB24B138-669D-4A2B-93C4-456E1973CF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1E2E592-19D1-47FA-B916-7A1C2E2D5A36}
+	EndGlobalSection
+EndGlobal

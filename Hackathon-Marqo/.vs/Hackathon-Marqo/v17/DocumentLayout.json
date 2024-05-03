@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\marqo_book_example.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:Scripts\\Examples\\marqo_book_example.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\multi_modal_search.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:Scripts\\Examples\\multi_modal_search.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\search_multimodal_combination.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:Scripts\\Examples\\search_multimodal_combination.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\weighted_query.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:Scripts\\Examples\\weighted_query.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Processor\\simple_script_processor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:Processor\\simple_script_processor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Vehicles\\vehicle_search.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:Scripts\\Vehicles\\vehicle_search.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Processor\\vehicle_processor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:Processor\\vehicle_processor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Models\\vehicle.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB24B138-669D-4A2B-93C4-456E1973CF7F}|Hackathon-Marqo.pyproj|solutionrelative:Models\\vehicle.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "multi_modal_search.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\multi_modal_search.py",
+              "RelativeDocumentMoniker": "Scripts\\Examples\\multi_modal_search.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\multi_modal_search.py",
+              "RelativeToolTip": "Scripts\\Examples\\multi_modal_search.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T14:08:10.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "search_multimodal_combination.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\search_multimodal_combination.py",
+              "RelativeDocumentMoniker": "Scripts\\Examples\\search_multimodal_combination.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\search_multimodal_combination.py",
+              "RelativeToolTip": "Scripts\\Examples\\search_multimodal_combination.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T14:08:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "simple_script_processor.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Processor\\simple_script_processor.py",
+              "RelativeDocumentMoniker": "Processor\\simple_script_processor.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Processor\\simple_script_processor.py",
+              "RelativeToolTip": "Processor\\simple_script_processor.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T13:47:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vehicle_search.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Vehicles\\vehicle_search.py",
+              "RelativeDocumentMoniker": "Scripts\\Vehicles\\vehicle_search.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Vehicles\\vehicle_search.py",
+              "RelativeToolTip": "Scripts\\Vehicles\\vehicle_search.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T13:13:37.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "marqo_book_example.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\marqo_book_example.py",
+              "RelativeDocumentMoniker": "Scripts\\Examples\\marqo_book_example.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\marqo_book_example.py",
+              "RelativeToolTip": "Scripts\\Examples\\marqo_book_example.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T09:33:26.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vehicle_processor.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Processor\\vehicle_processor.py",
+              "RelativeDocumentMoniker": "Processor\\vehicle_processor.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Processor\\vehicle_processor.py",
+              "RelativeToolTip": "Processor\\vehicle_processor.py",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwCkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T10:53:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vehicle.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Models\\vehicle.py",
+              "RelativeDocumentMoniker": "Models\\vehicle.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Models\\vehicle.py",
+              "RelativeToolTip": "Models\\vehicle.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T12:35:31.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T08:54:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "weighted_query.py",
+              "DocumentMoniker": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\weighted_query.py",
+              "RelativeDocumentMoniker": "Scripts\\Examples\\weighted_query.py",
+              "ToolTip": "C:\\Users\\james.lovesay_ivendi\\github\\Marqo\\PythonApplication1\\Scripts\\Examples\\weighted_query.py",
+              "RelativeToolTip": "Scripts\\Examples\\weighted_query.py",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T10:16:54.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
